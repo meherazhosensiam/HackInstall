@@ -90,7 +90,7 @@ OS    : Linux (Debian/Ubuntu/Fedora/Arch/openSUSE)
 
 ```bash
 # 1. Clone or download
-git clone https://github.com/yourusername/hackinstall.git
+git clone https://github.com/meherazhosensiam/hackinstall.git
 cd hackinstall
 
 # 2. Make executable
