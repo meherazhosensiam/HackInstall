@@ -2,7 +2,7 @@
 # =============================================================================
 #  H A C K I N S T A L L . S H
 #  Universal Offensive Security Toolkit Installer
-#  Author  : Meheraz Hosen Siam (github.com/siam)
+#  Author  : Meheraz Hosen Siam (github.com/meherazhosensiam)
 #  Version : 2.0.0
 #  License : MIT
 # =============================================================================
