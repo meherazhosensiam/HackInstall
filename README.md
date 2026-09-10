@@ -13,7 +13,7 @@
 ![Linux](https://img.shields.io/badge/Platform-Linux-blue?style=flat-square&logo=linux)
 ![License](https://img.shields.io/badge/License-MIT-red?style=flat-square)
 ![Tools](https://img.shields.io/badge/Tools-1000%2B-orange?style=flat-square)
-![Version](https://img.shields.io/badge/Version-2.0.0-cyan?style=flat-square)
+![Version](https://img.shields.io/badge/Version-4.1-cyan?style=flat-square)
 
 > **For authorized penetration testing and security research only.**
 
